@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, my name is Aryan Acevedo. 
 
-<!--
-**aryanacevedo/aryanacevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning **full-stack development** from scratch — one hour a day, building in public. To learn this I'm using a roadmap I created myself using muse.ai.
 
-Here are some ideas to get you started:
+## What I'm learning now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Git and GitHub
+- HTML and CSS — starting soon
+- The Full-Stack Roadmap, Phase 0
+
+## My goal
+
+Become a full-stack developer and build real projects — the first one will be my own coffee store.
